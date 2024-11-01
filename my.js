@@ -122,8 +122,12 @@
 // }
 
 //19-misol
-// let son = 1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 * 10;
-// console.log(son);
+// for (let i = 1; i <=20; i++) {
+//     for (let j = 1; j <=1; j++) {
+//         p*=j        
+//     }
+//     console.log(p);
+// }
 
 //20-misol
 // let son1 = +prompt("son");
@@ -152,6 +156,15 @@
 //     if (i%7==0) {
 //         console.log(i);
 //     }
+// }
+
+//25-misol
+
+// for (let i = 1; i <=100; i++) {
+//     if (i%10==0) {
+//         console.log(' '); 
+//     }
+    
 // }
 
 //1-misol
